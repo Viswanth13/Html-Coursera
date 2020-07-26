@@ -1,0 +1,55 @@
+body {
+	background-color: coral;
+}
+
+
+#header-nav{
+background-color: yellow;
+border-radius: 0;
+border:0;
+position: absolute;
+width: 100%;
+}
+
+.container>.navbar-header{
+	margin-right: -15px;
+	margin-left: -15px;
+	background-color: yellow;
+	
+
+}
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { 
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  
+}
+
+.jumbotron{
+	background-color: coral;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+  background-color: #00FFFF;
+}
+#nav-list p {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list p:hover {
+  background: #E7E7E7;
+}
+
+li>p{
+	background-color: #00FFFF;
+}
